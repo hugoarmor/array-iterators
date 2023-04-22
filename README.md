@@ -6,7 +6,7 @@ The idea is to not only have an understanding on what each function does, but al
 
 To achieve this, it's being implemented a custom method inside `Array.prototype` to have an understanding on how these functions are being abstracted and that you can have access to it 
 
-##### `⚠️ Don't modify the Array.prototype in production`
+##### *⚠️ Don't modify the Array.prototype in production*
 
 # Methods
 
